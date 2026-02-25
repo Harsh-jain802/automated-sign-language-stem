@@ -1,0 +1,72 @@
+{
+  "MOTION": {
+    "keywords": ["MOTION", "GO-GO", "TRAVELING", "INERTIA", "FIRST LAW"],
+    "video": "sign_motion.mp4",
+    "formula": "v = u + a x t",
+    "variables": "v = Final velocity, u = Initial velocity, a = acceleration, t = time",
+    "diagram": "http://localhost:8000/assets/diagram_motion.png",
+    "example": "OBJECT NO CHANGE. IF STAY STILL, STAY STILL. IF MOVE, KEEP MOVE. UNLESS FORCE HIT.",
+    "quiz": {
+      "question": "Soccer ball on grass. No one push. Ball move?",
+      "options": ["Yes, it moves", "No, it stays still"],
+      "answer_index": 1,
+      "explanation": "Newton's 1st Law: Object stays still (Inertia) unless a force pushes it."
+    }
+  },
+  "FORCE": {
+    "keywords": ["FORCE", "PUSH", "PULL", "MOVE WHY", "STRENGTH", "NEWTON"],
+    "video": "sign_force.mp4",
+    "formula": "F = m x a",
+    "variables": "F = force, m = mass, a = acceleration",
+    "diagram": "http://localhost:8000/assets/diagram_force.png",
+    "example": "YOU PUSH OBJECT. YOU PULL OBJECT. THAT POWER IS FORCE.",
+    "quiz": {
+      "question": "Object heavy. You want move. What you need?",
+      "options": ["More Force (Power)", "Less Force"],
+      "answer_index": 0,
+      "explanation": "More Mass needs more Force to start moving."
+    }
+  },
+  "ACCELERATION": {
+    "keywords": ["ACCELERATION", "FAST FAST", "SPEED UP", "CHANGE SPEED"],
+    "video": "sign_acceleration.mp4",
+    "formula": "a = dv / dt",
+    "variables": "a = acceleration, dv = change in velocity, dt = change in time",
+    "diagram": "http://localhost:8000/assets/diagram_acceleration.png",
+    "example": "OBJECT MOVE. THEN OBJECT MOVE FAST-FAST. THAT CHANGE IS ACCELERATION.",
+    "quiz": {
+      "question": "Car turn corner. Speed same. Acceleration?",
+      "options": ["Yes", "No"],
+      "answer_index": 0,
+      "explanation": "Acceleration is change in speed OR change in direction."
+    }
+  },
+  "GRAVITY": {
+    "keywords": ["GRAVITY", "FALL DOWN", "EARTH PULL", "DROP"],
+    "video": "sign_force.mp4",
+    "formula": "F_g = m x g",
+    "variables": "F_g = weight (gravity force), m = mass, g = gravity constant (9.8)",
+    "diagram": "http://localhost:8000/assets/diagram_force.png",
+    "example": "EARTH PULL EVERYTHING DOWN. TO CENTER. ALWAYS PULL.",
+    "quiz": {
+      "question": "You throw ball up. Ball go where?",
+      "options": ["Stay in sky", "Fall down to Earth"],
+      "answer_index": 1,
+      "explanation": "Gravity always pulls objects down to the center of the Earth."
+    }
+  },
+  "MASS": {
+    "keywords": ["MASS", "STUFF INSIDE", "MATTER", "HEAVY-HEAVY", "WEIGHT", "HEAVINESS", "GRAMS", "KILOGRAMS", "SUBSTANCE", "THICK"],
+    "video": "sign_mass.mp4",
+    "formula": "m = F / a",
+    "variables": "m = mass, F = force, a = acceleration",
+    "diagram": "http://localhost:8000/assets/diagram_force.png",
+    "example": "STUFF INSIDE OBJECT. BIG MASS IS HEAVY. SMALL MASS IS LIGHT. SPACE OR EARTH SAME-SAME.",
+    "quiz": {
+      "question": "Take bowling ball to Moon. Does MASS change?",
+      "options": ["Yes, it changes", "No, same-same"],
+      "answer_index": 1,
+      "explanation": "Mass is how much 'stuff' is inside. It stays the same everywhere in the universe!"
+    }
+}
+}
