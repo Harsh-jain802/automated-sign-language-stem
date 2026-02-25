@@ -1,7 +1,7 @@
 # Automated Sign Language STEM Content Generation
 
 ## Overview
-Automated Sign Language STEM Content Generation is an AI-based accessibility platform designed to bridge the learning gap faced by deaf and mute students in STEM education. The system converts complex STEM concepts into simplified explanations, visual representations, and sign language learning resources to improve understanding and inclusivity.
+Automated Sign Language STEM Content Generation is an AI-based accessibility platform designed to enhance learning experience for deaf and mute students further aiding their STEM endeavours. The system converts complex STEM concepts into simplified explanations, visual representations, and sign language learning resources to improve understanding and inclusivity.
 
 ---
 
